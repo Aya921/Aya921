@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Aya Mohamed<br><br>- 📚 I am currently studying in the College of Computer Science and Artificial Intelligence.<br> <br>-💻 Flutter Developer in the making — building beautiful, high-performance apps with clean code and passion<br><br>-🔥 I turn ideas into pixel-perfect Flutter apps — from simple CRUDs to real-time chat system<br><br>-🌟 Currently focused on growing as a Flutter frontend developer, and excited about every new thing I get to build.</p>
+<p align="left">I'm Aya Mohamed from Egypt<br><br> 📚 I am currently studying in the College of Computer Science and Artificial Intelligence.<br><br>-💻 Flutter Developer in the making — building beautiful, high-performance apps with clean code and passion<br><br>-🔥 I turn ideas into pixel-perfect Flutter apps — from simple CRUDs to real-time chat system<br><br>-🌟 Currently focused on growing as a Flutter frontend developer, and excited about every new thing I get to build.</p>
 
 ###
 
@@ -34,15 +34,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
