@@ -20,7 +20,8 @@
 
 ###
 
-<p align="left">I'm Aya Mohamed from Egypt<br><br> 📚 I am currently studying in the College of Computer Science and Artificial Intelligence.<br><br>-💻 Flutter Developer in the making — building beautiful, high-performance apps with clean code and passion<br><br>-🔥 I turn ideas into pixel-perfect Flutter apps — from simple CRUDs to real-time chat system<br><br>-🌟 Currently focused on growing as a Flutter frontend developer, and excited about every new thing I get to build.</p>
+<p align="left">I'm Aya Mohamed from Egypt<br><br> 📚 I am currently studying in the College of Computer Science and Artificial Intelligence.<br><br>-💻 Flutter Developer in the making — building beautiful, high-performance apps with clean code and passion<br><br>-🔥 I turn ideas into pixel-perfect Flutter apps — from simple CRUDs to real-time chat system<br><br>-🌟 Currently focused on growing as a Flutter frontend developer, and excited about every new thing I get to build. <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenQzc2s5ZjVlMjlvbTJlcXdiNmpjeHQ1bjl1bzNzYmxybXh6aXl4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAUFN7Y1BkK8cifShd/giphy.gif>
+</p>
 
 ###
 
