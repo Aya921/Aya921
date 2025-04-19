@@ -49,5 +49,12 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+### 📊 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aya921&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aya921&layout=compact&theme=tokyonight)
+
+
 ###
 
