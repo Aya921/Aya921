@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Aya Mohamed<br><br>- 📚 I am currently studying in the College of Computer Science and <br>Artificial Intelligence.<br> <br>-💻 Flutter Developer in the making — building beautiful, high-performance apps with clean code and passionز<br><br>-🔥 I turn ideas into pixel-perfect Flutter apps — from simple CRUDs to real-time chat system<br><br>-🌟 Currently focused on growing as a Flutter frontend developer, and excited about every new thing I get to build.</p>
+<p align="left">I'm Aya Mohamed<br><br>- 📚 I am currently studying in the College of Computer Science and Artificial Intelligence.<br> <br>-💻 Flutter Developer in the making — building beautiful, high-performance apps with clean code and passion<br><br>-🔥 I turn ideas into pixel-perfect Flutter apps — from simple CRUDs to real-time chat system<br><br>-🌟 Currently focused on growing as a Flutter frontend developer, and excited about every new thing I get to build.</p>
 
 ###
 
